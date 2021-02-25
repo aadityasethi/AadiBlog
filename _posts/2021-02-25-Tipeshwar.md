@@ -8,7 +8,7 @@ share-img: /assets/img/tipeshwar.jpg
 tags: [Jungle, Safari, Trip]
 ---
 
-My family has been going on trips in past in winters, but this time as my  sister had her exams, hence Dad and Son outing was decided… for a trip to a wildlife sanctuary. Visit to Tipeshwar Wildlife Sanctuary , which is in Yavatmal district of Maharashtra, was a dream come true. 
+My family has been going on trips in past in winters, but this time as my  sister had her exams, hence Dad and Son outing was decided… for a trip to a wildlife sanctuary. Visit to Tipeshwar Wildlife Sanctuary, which is in Yavatmal district of Maharashtra, was a dream come true. 
 
 ![_config.yml]({{ site.baseurl }}/assets/img/group_photo.jpg)
 ***A click right before our first Safari***
@@ -17,7 +17,7 @@ My family has been going on trips in past in winters, but this time as my  siste
 
 My dad and I travelled with iCampers , a group which conducts  wildlife tours , led by Kedar Kulkarni uncle . on 11th Feb night we travelled from Pune to Mumbai. From there took an early morning flight - an hour journey – to Nagpur . We reached Nagpur by 7 am. There was still 3 hour journey to be undertaken to reach Tipeshwar. We reached our beautiful stay home,  “Anant heritage” , by 11 am,  and rested , had our lunch and started for our 1st safari.  
 
-![_config.yml]({{ site.baseurl }}/assets/img/tip.jpg)
+![_config.yml]({{ site.baseurl }}/assets/img/tip.png)
 ***What Tipeshwar Looks Like***
 
 We were a group of 14 people from Mumbai and Pune. Five of us stayed in the dormitory. Apart from my dad and I , Abhijeet uncle, Kedar uncle, Sandeep uncle were there.  
