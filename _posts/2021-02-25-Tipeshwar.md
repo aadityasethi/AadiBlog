@@ -8,7 +8,7 @@ share-img: /assets/img/tipeshwar.jpg
 tags: [Jungle, Safari, Trip]
 ---
 
-My family has been going on trips in past in winters, but this time as my  sister had her exams, hence Dad and Son outing was decided… for a trip to a wildlife sanctuary. Visit to Tipeshwar Wildlife Sanctuary , which is in Yavatmal district of Maharashtra, was a dream come true. 
+My family has been going on trips in past in winters, but this time as my sister had her exams, hence Dad and Son outing was decided…for a trip to a wildlife sanctuary. Visit to Tipeshwar Wildlife Sanctuary , which is in Yavatmal district of Maharashtra, was a dream come true. 
 
 ![_config.yml]({{ site.baseurl }}/assets/img/group_photo.jpg)
 ***A click right before our first Safari***
